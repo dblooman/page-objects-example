@@ -1,0 +1,72 @@
+# bundler
+.gem
+.bin
+.bundle
+
+# certificates
+cloud-ca.pem
+ca.pem
+certificate.pem
+dev.bbc.co.uk.p*
+*.p12
+Certificate.p*
+
+# misc config
+.vagrant*
+.DS_Store
+*.swp
+*.sass-cache
+chromedriver.log
+*.local.ini
+libpeerconnection.log
+/.grunt
+_SpecRunner.html
+/mtk
+/mtk_lib
+tasks/support/php/vendor/composer/installed.json
+tags
+/worldservicetranslations
+vagrant
+
+# project files
+*/src/test/reports
+tabloid/webapp/static/stylesheets
+*/webapp/php/lib-test/reports
+tabloid/webapp/static/js/coverage
+node_modules
+tabloid/webapp/static/bower_components
+
+# Ignore other projects not in responsivenews that share the workspace area
+indepthtoolkit
+indepthtoolkitadmin
+idt
+vote2013
+usaelections2012
+locator_news_responsive
+bbcdotcom
+
+# PHP mess detector
+tasks/support/php/vendor/pdepend
+tasks/support/php/vendor/phpmd
+tasks/support/php/vendor/bin/pdepend
+tasks/support/php/vendor/bin/phpmd
+
+# Frameworks mess
+orbfig
+orbfig.*
+omgframeworkssite
+
+# IDEs
+nbproject
+.buildpath
+.metadata
+.project
+.settings/
+.idea/
+
+*.use_rpm
+.gemset
+**/target/
+
+# Dependent projects
+/berliner
