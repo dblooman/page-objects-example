@@ -1,0 +1,85 @@
+# Helper URLs
+homepage: '/news'
+storypage: '/news/uk-29057534'
+genreindex: '/news/technology'
+
+# Gallery
+galstatus: true
+galpage: '/news/in-pictures-22751686'
+
+# Live event keypoints
+livestatus: true
+livepage: '/news/uk-20796790'
+points: 'Key points'
+
+# Live event contribute form
+formstatus: true
+formtab: 'Contribute'
+
+# Audio Video
+videostatus: true
+videopage: '/news/uk-england-kent-29071228'
+
+# Blogs
+blogstatus: false
+blogindex: '/news/blogs/queens_baton_relay'
+blogfollowus: true
+
+# More stories component
+morestoriesstatus: true
+
+# Most read
+mostreadstatus: false
+
+# Most popular by day
+mostpopstatus: true
+
+# Top stories status
+topstatus: true
+
+# Share tools
+sharestory: true
+sharecorrindex: true
+
+# Features and analysis
+fastatus: true
+fastorystatus: true
+
+# Watch listen component
+watchlisten: false
+
+# Navigation
+navpage: '/news/uk-scotland-scotland-politics-29126386'
+navstatus: true
+navopen: true
+indextitle: true
+indexname: 'Scotland politics'
+sections: 'Sections'
+
+# Correspondent
+twitterstatus: true
+relatedcorres: false
+bioinformation: true
+corrstories: true
+correspondentpage: '/news/correspondents/rorycellanjones'
+
+# Find Local
+findstatus: true
+
+# Related links
+relatedlinks: true
+
+# Scotland
+scotlanddecides: '/news/events/scotland-decides'
+topicalstories: false
+pollwidget: false
+hasbanner: false
+issueexplorer: false
+
+# Comments
+commentsurl: '/news/science-environment-29115845'
+commentsbutton: true
+
+# Weather
+weatherlocal: true
+weatherpage: '/news/england/london'

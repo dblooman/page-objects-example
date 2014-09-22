@@ -1,0 +1,74 @@
+# Helper URLs
+homepage: '/arabic'
+storypage: '/arabic/middleeast/2014/09/140904_iraq_islamic_state_kirkuk_kidnap'
+genreindex: '/arabic'
+
+# Gallery
+galstatus: true
+galpage: '/arabic/multimedia/2014/08/140811_pic_gal_robin_williams_career'
+
+# Live event keypoints
+livestatus: false
+livepage: ''
+points: ''
+
+# Live event contribute form
+formstatus: false
+formtab: ''
+
+# Audio Video
+videostatus: true
+videopage: '/arabic/multimedia/2014/09/140903_gaza_israel_fishing'
+
+# Blogs
+blogstatus: false
+blogindex:
+blogfollowus: false
+
+# More stories component
+morestoriesstatus: true
+
+# Most read
+mostreadstatus: false
+
+# Most popular by day
+mostpopstatus: false
+
+# Top stories status
+topstatus: true
+
+# Share tools
+sharestatus: true
+sharecorrindex: false
+
+# Features and analysis
+fastatus: true
+fastorystatus: true
+
+# Watch listen component
+watchlisten: true
+
+# Navigation
+navpage: '/arabic'
+navstatus: true
+navopen: true
+sections: 'أقسام'
+indextitle: false
+indexname: ''
+
+# Correspondent
+twitterstatus: false
+relatedcorres: false
+bioinformation: false
+corrstories: false
+correspondentpage: ''
+
+# Find Local
+findstatus: false
+
+# Related links
+relatedlinks: false
+
+# Comments
+commentsurl: ''
+commentsbutton: false
