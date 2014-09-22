@@ -11,16 +11,16 @@ Fast and simple tests to reduce regression time by test every service on the res
 
 ## Options
 
-There are several command line options that you can use when running the tests.  These include width, environment and config.  The final option is the tag name, ON, which ensures that only tests that have been enabled in the config will be run.  This option is stored within the .rspec file.
+There are several command line options that you can use when running the tests.  These include width and config.  The final option is the tag name, ON, which ensures that only tests that have been enabled in the config will be run.  This option is stored within the .rspec file.
 
 ## Running
 An example command would be
 
-`WIDTH=1024 SITE=test CONFIG=news.yaml rspec`
+`WIDTH=1024 CONFIG=news.yaml rspec`
 
 Another
 
-`WIDTH=320 SITE=test CONFIG=arabic.yaml rspec`
+`WIDTH=320 CONFIG=arabic.yaml rspec`
 
 ## Configs
 
