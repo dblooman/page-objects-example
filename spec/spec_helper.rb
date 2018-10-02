@@ -39,7 +39,7 @@ Capybara.app_host = 'http://www.live.bbc.co.uk'
 # Capybara setting
 Capybara.default_driver = :poltergeist
 Capybara.run_server = false
-Capybara.default_wait_time = 30
+
 
 # Make Rspec matchers available to specs
 RSpec.configure do |config|

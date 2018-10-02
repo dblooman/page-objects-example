@@ -1,3 +1,7 @@
+
+
+
+
 source 'http://rubygems.org'
 
 group :test do
@@ -6,8 +10,9 @@ group :test do
 end
 
 gem 'capybara'
-gem 'selenium-webdriver'
-gem 'rspec'
+gem 'pkg-config'
 gem 'poltergeist'
 gem 'rake'
+gem 'rspec'
+gem 'selenium-webdriver'
 gem 'site_prism'
